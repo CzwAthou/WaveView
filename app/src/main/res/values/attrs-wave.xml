@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="WaveView">
+        <attr name="waveLength" format="integer"></attr>
+        <attr name="waveHeight" format="integer"></attr>
+        <attr name="bootBitmap" format="integer|reference"></attr>
+        <attr name="bitmapOffset" format="integer"></attr>
+        <attr name="waveColor" format="color|reference"></attr>
+        <attr name="rise" format="integer"></attr>
+        <attr name="duration" format="integer"></attr>
+        <attr name="originY" format="integer"></attr>
+    </declare-styleable>
+</resources>
